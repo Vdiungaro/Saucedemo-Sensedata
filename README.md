@@ -6,6 +6,8 @@ Teste realizado durante o processo seletivo para a SenseData com os seguintes ob
 Test.allTheThings() T-Shirt (Red);
 - Acessar o carrinho e prosseguir para a conclusão da compra.
 
+
+
 ### Página de login:
 
 **Descrição:** Um usuário válido deve conseguir acessar o site.
@@ -20,6 +22,8 @@ Test.allTheThings() T-Shirt (Red);
 
 **Resultado esperado:** O usuário fará o login e a página com todos os itens será mostrada.
 
+
+
 ### Página dos itens:
 
 **Descrição:** Alterar o filtro da página para menor ao maior preço e adicionar os itens Sauce Labs Onesie e Test.allTheThings() T-Shirt (Red) ao carrinho.
@@ -32,6 +36,8 @@ Test.allTheThings() T-Shirt (Red);
 3. Adicionar os itens ao carrinho através da página inicial.
 
 **Resultado esperado:** Os itens serão mostrados do menor preço ao maior e os dois itens deverão ser adicionados ao carrinho.
+
+
 
 ### Página de Checkout:
 
