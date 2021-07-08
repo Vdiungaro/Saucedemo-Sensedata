@@ -1,12 +1,12 @@
 # Saucedemo-Sensedata
 Teste realizado durante o processo seletivo para a SenseData com os seguintes objetivos ao acessar o site https://www.saucedemo.com:
-1. Realizar login
-2. Ordenar os produtos pelo valor (low to high)
-3. Adicionar os seguintes produtos ao carrinho: Sauce Labs Onesie e
-Test.allTheThings() T-Shirt (Red)
-4. Acessar o carrinho e prosseguir para a conclusão da compra.
+- Realizar login;
+- Ordenar os produtos pelo valor (low to high);
+- Adicionar os seguintes produtos ao carrinho: Sauce Labs Onesie e
+Test.allTheThings() T-Shirt (Red);
+- Acessar o carrinho e prosseguir para a conclusão da compra.
 
-### Pagina de login:
+### Página de login:
 
 **Descrição:** Um usuário válido deve conseguir acessar o site.
 
@@ -16,22 +16,22 @@ Test.allTheThings() T-Shirt (Red)
 1. Navegar até o site https://www.saucedemo.com
 2. Adicionar um nome de usuário no campo *username*.
 3. Adicionar a senha no campo *password*.
-4. Cliclar no botão *login*
+4. Clicar no botão *login*
 
-**Resultado Esperado:** O usuário fará o login e a página com todos os itens será mostrada.
+**Resultado esperado:** O usuário fará o login e a página com todos os itens será mostrada.
 
-### Página com itens:
+### Página dos itens:
 
-**Descrição:** Alterar o filtro da pagina para menor ao maior preço e adicionar os itens Sauce Labs Onesie e Test.allTheThings() T-Shirt (Red) ao carrinho.
+**Descrição:** Alterar o filtro da página para menor ao maior preço e adicionar os itens Sauce Labs Onesie e Test.allTheThings() T-Shirt (Red) ao carrinho.
 
 **Condição:** Usuário deve ter feito o login.
 
-**Passos teste:**
+**Passos do teste:**
 1. Selecionar a caixa de filtros.
 2. Selecionar o filtro *Price (low to high)*.
 3. Adicionar os itens ao carrinho através da página inicial.
 
-**Resultado Esperado:** Os itens serão mostrados do menor preço ao maior e os dois itens deverão ser adicionados ao carrinho.
+**Resultado esperado:** Os itens serão mostrados do menor preço ao maior e os dois itens deverão ser adicionados ao carrinho.
 
 ### Página de Checkout:
 
@@ -46,6 +46,6 @@ Test.allTheThings() T-Shirt (Red)
 4. Adicionar o sobrenome no campo *Last Name*.
 5. Adicionar o CEP no campo *Zip/Postal Code*.
 6. Seguir para o *checkout overview*.
-7. Cliclar em *Finish* para finalizar a compra.
+7. Clicar em *Finish* para prosseguir com a compra.
 
-
+**Resultado esperado:** O usuário terá sua compra realizada.
